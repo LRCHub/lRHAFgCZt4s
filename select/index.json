@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "LOST AND FOUND",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T02:55:58.975425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost and Found",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/01_Lost_and_Found_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lost and Found",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/02_Lost_and_Found_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
+      "artist": "A$AP Rocky feat. Tyler, The Creator & Nigo",
+      "has_synced": true,
+      "path": "select/03_Lost_and_Found_Freestyle_2019_(with_Tyler,_The_Creator_&_Nigo)_A$AP_Rocky_feat._Tyler,_The_Creator_&_Nigo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lost and Found Freestyle 2019 (feat. A$AP Rocky & Tyler, The Creator)",
+      "artist": "Nigo",
+      "has_synced": true,
+      "path": "select/04_Lost_and_Found_Freestyle_2019_(feat._A$AP_Rocky_&_Tyler,_The_Creator)_Nigo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lost And Found",
+      "artist": "Pretty Lights",
+      "has_synced": true,
+      "path": "select/05_Lost_And_Found_Pretty_Lights.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Over And Over Again (Lost And Found)",
+      "artist": "Clap Your Hands Say Yeah",
+      "has_synced": true,
+      "path": "select/06_Over_And_Over_Again_(Lost_And_Found)_Clap_Your_Hands_Say_Yeah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lost And Found",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/07_Lost_And_Found_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lost and Found",
+      "artist": "The Donnas",
+      "has_synced": false,
+      "path": "select/08_Lost_and_Found_The_Donnas.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lost and Found",
+      "artist": "The Donnas",
+      "has_synced": false,
+      "path": "select/09_Lost_and_Found_The_Donnas.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "In the Lost and Found (Honky Bach)/The Roost",
+      "artist": "Elliott Smith",
+      "has_synced": true,
+      "path": "select/10_In_the_Lost_and_Found_(Honky_Bach)_The_Roost_Elliott_Smith.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lost and Found",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/11_Lost_and_Found_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lost and Found",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/12_Lost_and_Found_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lost and Found",
+      "artist": "Phoenix",
+      "has_synced": true,
+      "path": "select/13_Lost_and_Found_Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lost And Found (Tantrum Part 2)",
+      "artist": "TANKARD",
+      "has_synced": false,
+      "path": "select/14_Lost_And_Found_(Tantrum_Part_2)_TANKARD.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOST AND FOUND",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_LOST_AND_FOUND_ONE_OK_ROCK.txt"
+    }
+  ]
+}
